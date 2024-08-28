@@ -1,0 +1,31 @@
+{
+  "name": "cli_task_manager",
+  "version": "1.0.0",
+  "description": "This is a CLI tool for todo tasks.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "task": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaaSH23/CLI-task-manager.git"
+  },
+  "author": "abhishek_oraon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaaSH23/CLI-task-manager/issues"
+  },
+  "homepage": "https://github.com/DaaSH23/CLI-task-manager#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "commander": "^12.1.0",
+    "fs-extra": "^11.2.0",
+    "nanospinner": "^1.1.0"
+  },
+  "keywords": ["cli", "task", "node", "js"]
+}
