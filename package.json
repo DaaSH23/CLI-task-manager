@@ -1,5 +1,5 @@
 {
-  "name": "cli_task_manager",
+  "name": "cli-task-tracker",
   "version": "1.0.0",
   "description": "This is a CLI tool for todo tasks.",
   "main": "index.js",
