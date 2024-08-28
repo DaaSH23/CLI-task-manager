@@ -2,8 +2,8 @@
 
 `task-manager-cli` is a cli tool that runs on top of node.js(build on js). It helps in managing your tasks.
 
-<img src="https://github.com/user-attachments/assets/3c7e4e9c-016f-44f7-aa98-93011da67498" alt="task-manager-cli pic" width="400" height="350">
-<img src="https://github.com/user-attachments/assets/136089ba-40fb-4d80-952b-69f21bbf7692" alt="task-manager-cli task" width="400" height="350">
+<img src="https://github.com/user-attachments/assets/3c7e4e9c-016f-44f7-aa98-93011da67498" alt="task-manager-cli pic" width="500" height="350">
+<img src="https://github.com/user-attachments/assets/136089ba-40fb-4d80-952b-69f21bbf7692" alt="task-manager-cli task" width="500" height="350">
 
 ## Table of contents
 
